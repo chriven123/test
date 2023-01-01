@@ -1,4 +1,5 @@
 import express from "express";
+const mongoose = require('mongoose');
 
 const app = express();
 const port = 9000;
